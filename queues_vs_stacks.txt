@@ -1,0 +1,7 @@
+A stack is a container of objects that works according to the Last in First out LIFO principle. So in a stack, so the first item inserted is popped out last, while the last item inserted is popped out first.
+
+A queue is a container of objects that works according to the First in First out FIFO principle. So in a queue, the items inserted first, are the first to be popped out.
+
+Real life examples:
+Stack: CD Stand, forward backwards button in browsers.
+Queue: Computer job scheduling, lines of people.
