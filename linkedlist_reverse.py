@@ -17,4 +17,4 @@ def reverseList(head):
         prev = curr
         curr = nextNode
     # Return the head of reversed linked list
-    return prev
+    head = prev
